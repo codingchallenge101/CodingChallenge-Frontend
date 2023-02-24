@@ -11,7 +11,7 @@ Deployed Frontend URL to ECS
 BLOCKER IN THIS PRODUCTION
 
 
-"First of all there are CORS allowed in the backend and when frontend tries to hit the backend..it fails due to CORS error because it uses a secure connection panel and HTTP isn't secure. Wehn I orchestrated this initiall--there was no domain for redirection hence I hade to buy a domain from namecheap.com called "http://www.codingchallenge.codes/", if the domain is redirected over the HTTPS that issue would be resolved automatially in a blink of eye and the application made live"
+"First of all there are CORS allowed in the backend and when frontend tries to hit the backend..it fails due to CORS error because it uses a secure connection panel and HTTP isn't secure. When I orchestrated this initiall--there was no domain for redirection hence I hade to buy a domain from namecheap.com called "http://www.codingchallenge.codes/", if the domain is redirected over the HTTPS that issue would be resolved automatially in a blink of eye and the application made live"
 
 ## Step 1 
 Create Alb with terraform
